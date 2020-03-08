@@ -1,0 +1,22 @@
+#title {
+    color : #800000;
+}
+#title #logo{
+    font-size: 55px;
+}
+#title #by{
+    font-size: 20px;
+}
+
+#category ul {
+    list-style: none ;
+}
+#category ul li {
+    border-bottom : 1px solid #800000 ;
+}
+#category ul li p {
+    color : #800000;
+    font-size: 30px ;
+}
+
+
