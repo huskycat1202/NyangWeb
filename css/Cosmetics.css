@@ -1,5 +1,7 @@
 #title {
     color : #800000;
+    margin-top: 70px;
+    margin-bottom: 50px;
 }
 #title #logo{
     font-size: 55px;
@@ -8,8 +10,14 @@
     font-size: 20px;
 }
 
+#category {
+    width : 70%;
+    margin : 15%;
+    margin-top: 0px;
+}
 #category ul {
     list-style: none ;
+    padding: 0px;
 }
 #category ul li {
     border-bottom : 1px solid #800000 ;
@@ -17,6 +25,7 @@
 #category ul li p {
     color : #800000;
     font-size: 30px ;
+    text-align: left;
 }
 
 
