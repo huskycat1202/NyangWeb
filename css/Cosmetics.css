@@ -21,6 +21,7 @@
 }
 #category ul li {
     border-bottom : 1px solid #800000 ;
+    height: 66px;
 }
 #category ul li p {
     color : #800000;
